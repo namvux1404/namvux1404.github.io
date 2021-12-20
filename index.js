@@ -95,7 +95,7 @@ function replaceUrls(text) {
   }
 }
 
-Typer.speed = 2;
+Typer.speed = 3;
 Typer.file = 'namvux.txt';
 Typer.init();
 
