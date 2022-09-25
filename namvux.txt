@@ -5,18 +5,15 @@ Hello, welcome to my terminal :)<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
 
 My favorite quote, "<span id="k"> LIFE is like MATH, if it goes too easy, then something is wrong ;)</span>". <!-- sjkfhskjf -->
 
-<center><img src="nam.jpg" alt="centered nam image" height="45px" width="36px"> </center>
+<center><img src="nam.jpg" alt="centered nam image" height="450px" width="360px"> </center>
 
 <p> My name is Van, i'm currently a 3rd year student at University of Montreal in Data Science specialization.</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
 <p> I have a passion for Machine learning and AI (including in applied and research). I really want to learn and contribute to the field as a Machine Learning Engineer, Data Scientist or AI researcher. I believe that data aren't just numbers and this is the future and will help us a lot while combining with others fields. </p>
 <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
 
-<p> I learnt a lot from my courses at school and from my internship as a Machine Learning Intern at CN Railway. From the fundamentals of 
-supervised learning to unsupervised learning algorithms, to deep learning model for Natural Language Processing (RNN), I have a solid base for 
-their application or advanced research. With my collegues at school and at CN, I had a chance to build some models to solve a real life problem. 
-Until now, my projects are related to medical problem, system logs and natural language processing and computer vision (object detection).  </p>
+<p> I learnt a lot from my courses at school and from my internship as a Machine Learning Intern at CN Railway. From the fundamentals of supervised learning to unsupervised learning algorithms, to deep learning model for Natural Language Processing (RNN), I have a solid base for their application or advanced research. With my collegues at school and at CN, I had a chance to build some models to solve a real life problem. Until now, my projects are related to medical problem, system logs and natural language processing and computer vision (object detection).  </p>
 <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
-<p> Projects : </p>
+<br> Projects : </br>
 <ul>
   <li>Anomalie detection</li>
   <li>Thinking vs Meditation</li>
