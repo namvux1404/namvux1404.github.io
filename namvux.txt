@@ -8,7 +8,7 @@ My favorite quote, "<span id="k">LIFE is like MATH, if it goes too easy, then so
 <center><img src="nam.jpg" alt="centered nam image" height="225px" width="180px"> </center>
 
 <p> My name is Nam, i'm currently a 3rd year student at University of Montreal in Data Science specialization.</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
-<p> I have a passion for Machine learning and AI (including in applied and research). I really want to learn and contribute to the field as a Machine Learning Engineer, Data Scientist or AI Researcher. I believe that data isn't just numbers and this is the future and will help us a lot while combining with others fields. </p>
+<p> I have a passion for Machine learning and AI (including in applied and research). I really want to learn and contribute to the field as a Machine Learning Engineer, Data Scientist or AI Researcher. I believe that data has more meanings than just numbers, this is the future and will help us a lot while combining with others fields. </p>
 <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
 
 <p> I learnt a lot from my courses at school and from my internship as a Machine Learning Intern at CN Railway. From the fundamentals of supervised learning to unsupervised learning algorithms, to deep learning model for Natural Language Processing (RNN), I have a solid base for their application or advanced research. With my collegues at school and at CN, I had a chance to build some models to solve a real life problem. Until now, my projects are related to medical problem, system logs and natural language processing and computer vision (object detection).  </p>
