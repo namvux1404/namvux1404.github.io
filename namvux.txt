@@ -1,5 +1,5 @@
 <span id="a">Namvux</span>:<span id="b">~</span><span id="c">$</span> cd Namvux/<!-- kjsdfhkjdhsfkjdshfkj -->About_me
-<span id="a">Namvux</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->namvux.txt<br/><br/>
+<span id="a">Namvux</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->namvux.txt<br/>
 
 Hello, welcome to my terminal :)<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
 
@@ -13,7 +13,7 @@ My favorite quote, "<span id="k">LIFE is like MATH, if it goes too easy, then so
 <p> I learnt a lot from my courses at school and from my internship as a Machine Learning Intern at CN Railway. From the fundamentals of supervised learning to unsupervised learning algorithms, to deep learning model for Natural Language Processing (RNN), I have a solid base for their application or advanced research. With my collegues at school and at CN, I had a chance to build some models to solve a real life problem. Until now, my projects and my interests are related to medical problem, system logs, fintech, natural language processing and computer vision (object detection and self-driving feature).  </p>
 <!-- sjkfhskjf -->
 <ul>
-<br> Projects : </br>
+Projects :
   <li>Anomalies detection using system logs mining (Internship)</li>
   <li>Thinking/Meditation and Music preference prediction using EEG dataset - <a href="https://github.com/namvux1404/IFT3710"> Github</a></li>
   <li>Heart Disease prediction using medical indexes - <a href="https://github.com/namvux1404/STT3795"> Github</a></li>
@@ -21,7 +21,7 @@ My favorite quote, "<span id="k">LIFE is like MATH, if it goes too easy, then so
   <li>Notion of similarity - MNIST and Adult dataset- <a href="https://github.com/namvux1404/DS3700/tree/main/Devoir1"> Github</a></li>
 </ul>
 <!-- sjkfhskjf -->
-<p> A bit about myself, I love soccer and i see soccer as a way to relax and </p>
+<p> A bit about myself, I love soccer and i see soccer as a way to relax. </p>
 <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
 
 <p> You can also tell what you've worked and known and what skills you have, you can also give link to your professional portfolio here<a href="link"> portfolio</a>.</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
