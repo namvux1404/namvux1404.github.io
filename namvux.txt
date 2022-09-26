@@ -4,6 +4,7 @@
 Hello, welcome to my terminal :)<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
 
 My favorite quote, "<span id="k">LIFE is like MATH, if it goes too easy, then something is wrong ;)</span>".
+
 <center><img src="nam.jpg" alt="centered nam image" height="225px" width="180px"> </center>
 <p> My name is Nam, i'm currently a 3rd year student at University of Montreal in Data Science specialization.</p>
 <p> I have a passion for Machine learning and AI (including in applied and research). I really want to learn and contribute to the field as a Machine Learning Engineer, Data Scientist or AI Researcher. I believe that data has more meanings than just numbers, this is the future and will help us a lot while combining with others fields to have a better life. </p>
