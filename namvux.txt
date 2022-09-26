@@ -21,7 +21,7 @@ Projects :
   <li>Notion of similarity - MNIST and Adult dataset- <a href="https://github.com/namvux1404/DS3700/tree/main/Devoir1"> Github</a></li>
 </ul>
 <!-- sjkfhskjf -->
-<p> A bit about myself, I love soccer and i see soccer as a way to relax. </p>
+<p> A bit about myself, I love soccer and i play soccer as a way to relax. </p>
 <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
 
 <p> You can also tell what you've worked and known and what skills you have, you can also give link to your professional portfolio here<a href="link"> portfolio</a>.</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
