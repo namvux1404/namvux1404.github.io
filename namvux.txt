@@ -6,9 +6,9 @@ Hello, welcome to my terminal :)<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
 My favorite quote, "<span id="k">LIFE is like MATH, if it goes too easy, then something is wrong ;)</span>".
 
 <center><img src="nam.jpg" alt="centered nam image" height="225px" width="180px"> </center>
-<p> My name is Nam, i'm currently a 3rd year student at University of Montreal in Data Science specialization.</p>
+<p> My name is Nam, I'm currently a 3rd year student at University of Montreal in Data Science specialization.</p>
 <p> I have a passion for Machine learning and AI (including in applied and research). I really want to learn and contribute to the field as a Machine Learning Engineer, Data Scientist or AI Researcher. I believe that data has more meanings than just numbers, this is the future and will help us a lot while combining with others fields to have a better life. </p>
-<p> I learnt a lot from my courses at school and from my internship as a Machine Learning Intern at CN Railway. From the fundamentals of supervised learning to unsupervised learning algorithms, to deep learning model for Natural Language Processing (RNN), I have a solid base for their application or advanced research. With my collegues at school and at CN, I had a chance to build some models to solve a real life problem. Until now, my projects and my interests are related to medical problem, system logs, fintech, natural language processing and computer vision (object detection and self-driving feature).  </p>
+<p> I have learned a lot from my courses at school and from my internship as a Machine Learning Intern at CN Railway. From the fundamentals of supervised learning to unsupervised learning algorithms, to deep learning model for Natural Language Processing (RNN), I have a solid base for their application or advanced research. With my collegues at school and at CN, I had a chance to build some models to solve a real life problem. Until now, my projects and my interests are related to medical problem, system logs, fintech, natural language processing and computer vision (object detection and self-driving feature).  </p>
 <ul>
 <p>P R O J E C T S : </p>
   <li>Anomalies detection using system logs mining (Internship)</li>
@@ -18,7 +18,7 @@ My favorite quote, "<span id="k">LIFE is like MATH, if it goes too easy, then so
   <li>Notion of similarity - MNIST and Adult dataset- <a href="https://github.com/namvux1404/DS3700/tree/main/Devoir1"> Github</a></li>
 </ul>
 <!-- sjkfhskjf -->
-<p> A bit about myself, I love soccer and i play soccer as a way to relax. Also it helps me a lot to have and train my teammate spirit, because for me working as a team is an important element and will help all of us to go further than just go alone :)</p>
+<p> A bit about myself, I love soccer. I play it as a way to relax and it also helps me a lot create and train my teammate spirit. In my opinion, working as a team is an important element which will help all of us to go further than just go alone :)</p>
 
 <p> If you are interested and want to see more about my background and my skills, here: <br> <a href="https://www.linkedin.com/in/van-nam-vu-14041997/">My LinkedIn</a> <br> <a href="link2">My CV</a> <br> <a href="link3">My Kaggle</a>.</p>
 
