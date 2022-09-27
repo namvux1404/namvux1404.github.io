@@ -18,7 +18,7 @@ My favorite quote, "<span id="k">LIFE is like MATH, if it goes too easy, then so
   <li>Notion of similarity - MNIST and Adult dataset- <a href="https://github.com/namvux1404/DS3700/tree/main/Devoir1"> Github</a></li>
 </ul>
 <!-- sjkfhskjf -->
-<p> A bit about myself, I love soccer. I play it as a way to relax and it also helps me a lot create and train my teammate spirit. In my opinion, working as a team is an important element which will help all of us to go further than just go alone :)</p>
+<p> A bit about myself, I love soccer. I play it as a way to relax and it also helps me a lot to create and train my teammate spirit. In my opinion, working as a team is an important element which will help all of us to go further than just go alone :)</p>
 
 <p> If you are interested and want to see more about my background and my skills, here: <br> <a href="https://www.linkedin.com/in/van-nam-vu-14041997/">My LinkedIn</a> <br> <a href="link2">My CV</a> <br> <a href="link3">My Kaggle</a>.</p>
 
