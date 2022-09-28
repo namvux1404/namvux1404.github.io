@@ -20,7 +20,7 @@ My favorite quote, "<span id="k">LIFE is like MATH, if it goes too easy, then so
 <!-- sjkfhskjf -->
 <p> A bit about myself, I love soccer. I play it as a way to relax and it also helps me a lot to create and train my teammate spirit. In my opinion, working as a team is an important element which will help all of us to go further than just go alone :)</p>
 
-<p> If you are interested and want to see more about my background and my skills, here: <br> <a href="https://www.linkedin.com/in/van-nam-vu-14041997/">My LinkedIn</a> <br> <a href="link2">My CV</a> <br> <a href="link3">My Kaggle</a>.</p>
+<p> If you are interested and want to see more about my background and my skills, here: <br> <a href="https://www.linkedin.com/in/van-nam-vu-14041997/">My LinkedIn</a>.</p>
 
 If you have want to connect for any reason like side projects, add friend or simply just want to play a soccer match together <!-- slightdelayhere-->, feel free to send me an email at <!-- longlonglongcomment --><a href="vvnam97@gmail.com">vvnam97@gmail.com</a>.
 
